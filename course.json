@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F03",
+  "repository": "icb-f03-earn-claim-share-credentials",
+  "repository_url": "https://github.com/ICoBC/icb-f03-earn-claim-share-credentials",
+  "title": "Earn, Claim and Share Your Credentials",
+  "subtitle": "A practical guide for earners, from accepting a badge to using it in an application.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Earner experience and agency",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-EXPR-L1-A",
+  "badge_name": "Earn, Claim and Share Your Credentials (Ability, L1)",
+  "hours": "1.5",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f03/",
+  "parts": [
+    "About this course",
+    "What you received and why it matters",
+    "Claiming and storing",
+    "Sharing with purpose",
+    "Your privacy choices",
+    "Using credentials in applications and conversations",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 23
+}
